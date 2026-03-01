@@ -15,7 +15,7 @@
     "removeSt": false,
     "NOTIFICATION": true,
     "notiGroup": true,
-    "BOTNAME": "𝗦𝗔𝗛𝗨 𝗜𝗦𝗟𝗔𝗠𝗜𝗖 𝗕𝗢𝗧",
+    "BOTNAME": "SAIMA CHAT BOT",
     "PREFIX": "/",
     "reactUnsend": [
         "😡",
@@ -24,8 +24,8 @@
         "😠"
     ],
     "ADMINBOT": [
-        "100044713412032",
-        "100047211079054",
+        "61553440303523",
+        "100078919790824",
         "61587787857742"
     ],
     "NDH": [
